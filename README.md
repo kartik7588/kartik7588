@@ -39,8 +39,7 @@ Welcome to my GitHub profile! I'm a **Computer Science Engineering student** cur
 
 
 ### ❤️ GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartik7588&theme=aura_dark)</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik7588&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik7588&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p>
-
+</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik7588&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik7588&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p>
 
 ---
 
