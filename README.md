@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartik! 👋
 
-Welcome to my GitHub profile! I'm a **Computer Science Engineering student** currently in my third year, passionate about **web development, freelancing, and solving real-life problems** through code.
+Welcome to my GitHub profile! I'm a **Computer Science Engineering student** currently in my final year, passionate about **web development, freelancing, and solving real-life problems** through code.
 
 ---
 
